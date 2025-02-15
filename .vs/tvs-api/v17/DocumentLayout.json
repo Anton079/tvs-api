@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\mycode\\asp.net\\tvs-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5757C78C-5CDA-4B0D-A1F1-7288E3E4604C}|tvs-api\\tvs-api.csproj|c:\\mycode\\asp.net\\tvs-api\\tvs-api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5757C78C-5CDA-4B0D-A1F1-7288E3E4604C}|tvs-api\\tvs-api.csproj|solutionrelative:tvs-api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5757C78C-5CDA-4B0D-A1F1-7288E3E4604C}|tvs-api\\tvs-api.csproj|c:\\mycode\\asp.net\\tvs-api\\tvs-api\\data\\createschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5757C78C-5CDA-4B0D-A1F1-7288E3E4604C}|tvs-api\\tvs-api.csproj|solutionrelative:tvs-api\\data\\createschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5757C78C-5CDA-4B0D-A1F1-7288E3E4604C}|tvs-api\\tvs-api.csproj|c:\\mycode\\asp.net\\tvs-api\\tvs-api\\tvs\\controllers\\tvcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5757C78C-5CDA-4B0D-A1F1-7288E3E4604C}|tvs-api\\tvs-api.csproj|solutionrelative:tvs-api\\tvs\\controllers\\tvcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5757C78C-5CDA-4B0D-A1F1-7288E3E4604C}|tvs-api\\tvs-api.csproj|c:\\mycode\\asp.net\\tvs-api\\tvs-api\\tvs\\models\\tv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5757C78C-5CDA-4B0D-A1F1-7288E3E4604C}|tvs-api\\tvs-api.csproj|solutionrelative:tvs-api\\tvs\\models\\tv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5757C78C-5CDA-4B0D-A1F1-7288E3E4604C}|tvs-api\\tvs-api.csproj|c:\\mycode\\asp.net\\tvs-api\\tvs-api\\tvs\\repository\\tvrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5757C78C-5CDA-4B0D-A1F1-7288E3E4604C}|tvs-api\\tvs-api.csproj|solutionrelative:tvs-api\\tvs\\repository\\tvrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5757C78C-5CDA-4B0D-A1F1-7288E3E4604C}|tvs-api\\tvs-api.csproj|c:\\mycode\\asp.net\\tvs-api\\tvs-api\\tvs\\repository\\itvrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5757C78C-5CDA-4B0D-A1F1-7288E3E4604C}|tvs-api\\tvs-api.csproj|solutionrelative:tvs-api\\tvs\\repository\\itvrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5757C78C-5CDA-4B0D-A1F1-7288E3E4604C}|tvs-api\\tvs-api.csproj|c:\\mycode\\asp.net\\tvs-api\\tvs-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5757C78C-5CDA-4B0D-A1F1-7288E3E4604C}|tvs-api\\tvs-api.csproj|solutionrelative:tvs-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5757C78C-5CDA-4B0D-A1F1-7288E3E4604C}|tvs-api\\tvs-api.csproj|c:\\mycode\\asp.net\\tvs-api\\tvs-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5757C78C-5CDA-4B0D-A1F1-7288E3E4604C}|tvs-api\\tvs-api.csproj|solutionrelative:tvs-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5757C78C-5CDA-4B0D-A1F1-7288E3E4604C}|tvs-api\\tvs-api.csproj|c:\\mycode\\asp.net\\tvs-api\\tvs-api\\tvs-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5757C78C-5CDA-4B0D-A1F1-7288E3E4604C}|tvs-api\\tvs-api.csproj|solutionrelative:tvs-api\\tvs-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\tvs-api\\tvs-api\\Program.cs",
+              "RelativeDocumentMoniker": "tvs-api\\Program.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\tvs-api\\tvs-api\\Program.cs",
+              "RelativeToolTip": "tvs-api\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAjwB8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:00:32.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\tvs-api\\tvs-api\\appsettings.json",
+              "RelativeDocumentMoniker": "tvs-api\\appsettings.json",
+              "ToolTip": "C:\\mycode\\asp.net\\tvs-api\\tvs-api\\appsettings.json",
+              "RelativeToolTip": "tvs-api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-15T17:00:20.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "tvs-api.csproj",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\tvs-api\\tvs-api\\tvs-api.csproj",
+              "RelativeDocumentMoniker": "tvs-api\\tvs-api.csproj",
+              "ToolTip": "C:\\mycode\\asp.net\\tvs-api\\tvs-api\\tvs-api.csproj",
+              "RelativeToolTip": "tvs-api\\tvs-api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-15T17:00:10.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateSchema.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\tvs-api\\tvs-api\\Data\\CreateSchema.cs",
+              "RelativeDocumentMoniker": "tvs-api\\Data\\CreateSchema.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\tvs-api\\tvs-api\\Data\\CreateSchema.cs",
+              "RelativeToolTip": "tvs-api\\Data\\CreateSchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T16:59:22.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\tvs-api\\tvs-api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "tvs-api\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\tvs-api\\tvs-api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "tvs-api\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T16:59:13.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TvRepo.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\tvs-api\\tvs-api\\Tvs\\Repository\\TvRepo.cs",
+              "RelativeDocumentMoniker": "tvs-api\\Tvs\\Repository\\TvRepo.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\tvs-api\\tvs-api\\Tvs\\Repository\\TvRepo.cs",
+              "RelativeToolTip": "tvs-api\\Tvs\\Repository\\TvRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T16:58:28.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITvRepo.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\tvs-api\\tvs-api\\Tvs\\Repository\\ITvRepo.cs",
+              "RelativeDocumentMoniker": "tvs-api\\Tvs\\Repository\\ITvRepo.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\tvs-api\\tvs-api\\Tvs\\Repository\\ITvRepo.cs",
+              "RelativeToolTip": "tvs-api\\Tvs\\Repository\\ITvRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T16:58:19.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tv.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\tvs-api\\tvs-api\\Tvs\\Models\\Tv.cs",
+              "RelativeDocumentMoniker": "tvs-api\\Tvs\\Models\\Tv.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\tvs-api\\tvs-api\\Tvs\\Models\\Tv.cs",
+              "RelativeToolTip": "tvs-api\\Tvs\\Models\\Tv.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T16:57:25.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TvController.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\tvs-api\\tvs-api\\Tvs\\Controllers\\TvController.cs",
+              "RelativeDocumentMoniker": "tvs-api\\Tvs\\Controllers\\TvController.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\tvs-api\\tvs-api\\Tvs\\Controllers\\TvController.cs",
+              "RelativeToolTip": "tvs-api\\Tvs\\Controllers\\TvController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T16:56:04.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
