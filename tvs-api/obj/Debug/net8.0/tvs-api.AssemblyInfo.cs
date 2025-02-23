@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tvs-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+304963e53cc41aa086bd80b21acd5dbfb1194e8c")]
 [assembly: System.Reflection.AssemblyProductAttribute("tvs-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tvs-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

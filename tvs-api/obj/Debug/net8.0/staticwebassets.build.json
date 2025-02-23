@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iCoZtPDqzVgtKxVq1MldIKlME5Zg3qEpwsucm3YESHw=",
+  "Source": "tvs-api",
+  "BasePath": "_content/tvs-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

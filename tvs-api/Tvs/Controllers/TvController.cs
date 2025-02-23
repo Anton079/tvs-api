@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using tvs_api.Tvs.Dtos;
 using tvs_api.Tvs.Models;
 using tvs_api.Tvs.Repository;
 
@@ -15,13 +16,22 @@ namespace tvs_api.Tvs.Controllers
             _tvRepo = tvRepo;
         }
 
-        [HttpGet]
+        [HttpGet("getAll")]
 
         public async Task<ActionResult<List<Tv>>> GetTvAsync()
         {
             var tv = await _tvRepo.GetTvsAsync();
 
             return Ok(tv);
+        }
+
+        [HttpPost("addTv")]
+
+        public async Task<ActionResult<TvResponse>> CreateAsync([FromBody]TvRequest tvReq)
+        {
+            TvResponse tvSaved = await _tvRepo.CreateTvAsync(tvReq);
+
+            return Ok(tvSaved);
         }
     }
 }

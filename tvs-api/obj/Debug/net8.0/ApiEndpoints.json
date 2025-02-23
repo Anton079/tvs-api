@@ -1,0 +1,48 @@
+[
+  {
+    "ContainingType": "tvs_api.Tvs.Controllers.TvController",
+    "Method": "CreateAsync",
+    "RelativePath": "api/v1/Tv/addTv",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tvReq",
+        "Type": "tvs_api.Tvs.Dtos.TvRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "tvs_api.Tvs.Dtos.TvResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "tvs_api.Tvs.Controllers.TvController",
+    "Method": "GetTvAsync",
+    "RelativePath": "api/v1/Tv/getAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[tvs_api.Tvs.Models.Tv, tvs-api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
